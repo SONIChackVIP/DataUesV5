@@ -24,6 +24,14 @@
       "toId": "RBIGTDA",
       "message": "สวัสดี",
       "createdAt": "2026-07-28T07:56:47.602Z"
+    },
+    {
+      "id": "c_1785228448168_muv7",
+      "fromId": "RBIGTDA",
+      "toId": "HZS6MHZ",
+      "message": "สวัสดีครับ",
+      "image": null,
+      "createdAt": "2026-07-28T08:47:28.168Z"
     }
   ],
   "loginHistory": [
@@ -59,5 +67,9 @@
       "country": "ไม่ทราบประเทศ",
       "device": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36"
     }
-  ]
+  ],
+  "friends": [],
+  "friendRequests": [],
+  "comments": [],
+  "reports": []
 }
