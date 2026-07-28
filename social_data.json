@@ -33,5 +33,14 @@
     "username": "Guest_6777",
     "password": "MzYxODY5OTEtYmI1My00OGIwLTk4NGQtYTNkMDY5YjJiMmM4",
     "createdAt": "2026-07-28T11:52:00.321Z"
+  },
+  {
+    "id": "8b05e12d-85cf-4343-9dad-26acf28b6aa4",
+    "type": "user",
+    "email": "admin@devbix.local",
+    "username": "DevBix",
+    "password": "cWF3ZTEyLiw=",
+    "createdAt": "2026-07-28T11:58:02.445Z",
+    "role": "admin"
   }
 ]
