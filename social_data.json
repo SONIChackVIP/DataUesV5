@@ -75,5 +75,13 @@
     "role": "user",
     "replyTo": null,
     "timestamp": 1785243169827
+  },
+  {
+    "id": "aa71aef0-6a23-45e9-a9c3-550b3ffc9850",
+    "type": "user",
+    "email": "guest_6523@auto.chat",
+    "username": "Guest_6523",
+    "password": "YTg0MjgzMjMtZGZjMS00YjRlLTk2MmEtOGZlNmMyOGU2YmI2",
+    "createdAt": "2026-07-28T13:08:54.166Z"
   }
 ]
