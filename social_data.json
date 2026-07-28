@@ -1,16 +1,9 @@
-{
-  "users": [
-    {
-      "accountId": "MJ80E4C",
-      "displayName": "ผู้ใช้ MJ80E4C",
-      "createdAt": "2026-07-28T07:36:46.704Z"
-    },
-    {
-      "accountId": "932ABA3",
-      "displayName": "ผู้ใช้ 932ABA3",
-      "createdAt": "2026-07-28T10:48:04.576Z"
-    }
-  ],
-  "posts": [],
-  "chats": []
-}
+[
+  {
+    "id": "6dd8ffd5-12e2-4eba-be89-739c11930d47",
+    "email": "guest_3127@auto.chat",
+    "username": "Guest_3127",
+    "password": "NDE1NzFmNWQtMmQ3OC00MmE2LWFkYTQtZDkzZmZmOWNlMTEy",
+    "createdAt": "2026-07-28T11:18:08.380Z"
+  }
+]
