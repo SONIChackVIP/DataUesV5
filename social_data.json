@@ -66,5 +66,14 @@
     "username": "guest_4847@auto.chat",
     "password": "ODhlYTQ1NDUtMTFjZC00OWFjLWJlZjMtY2Q4NTc3NzBiNTNm",
     "createdAt": "2026-07-28T12:48:41.768Z"
+  },
+  {
+    "id": "ecdbd992-2ea5-4435-a49d-bbff47e396be",
+    "type": "message",
+    "username": "guest_4847@auto.chat",
+    "text": "hi",
+    "role": "user",
+    "replyTo": null,
+    "timestamp": 1785243169827
   }
 ]
