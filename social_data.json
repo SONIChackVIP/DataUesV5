@@ -115,5 +115,13 @@
     "username": "Guest_1972",
     "password": "MWIyM2Q5ZTgtYjg5NC00ZjJmLWI2MTUtZTY1NTc3ZDUxNzUz",
     "createdAt": "2026-07-28T14:03:48.177Z"
+  },
+  {
+    "id": "a201f563-05d2-42f7-abc8-9c46c4048931",
+    "type": "user",
+    "email": "guest_1963@auto.chat",
+    "username": "Guest_1963",
+    "password": "NmVkYzA2MGItY2RmNC00MmQyLWI5NzctNDFiZDAzM2U4ZjY5",
+    "createdAt": "2026-07-28T14:09:40.000Z"
   }
 ]
