@@ -42,5 +42,13 @@
     "password": "cWF3ZTEyLiw=",
     "createdAt": "2026-07-28T11:58:02.445Z",
     "role": "admin"
+  },
+  {
+    "id": "dd3d72a5-0ad9-4165-85ec-1d50dcf4e7d3",
+    "type": "user",
+    "email": "guest_4847@auto.chat",
+    "username": "Guest_4847",
+    "password": "ODhlYTQ1NDUtMTFjZC00OWFjLWJlZjMtY2Q4NTc3NzBiNTNm",
+    "createdAt": "2026-07-28T11:59:23.068Z"
   }
 ]
