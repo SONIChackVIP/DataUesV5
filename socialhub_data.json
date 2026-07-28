@@ -17,7 +17,15 @@
     }
   ],
   "posts": [],
-  "chats": [],
+  "chats": [
+    {
+      "id": "c_1785225407602_lwxq",
+      "fromId": "HZS6MHZ",
+      "toId": "RBIGTDA",
+      "message": "สวัสดี",
+      "createdAt": "2026-07-28T07:56:47.602Z"
+    }
+  ],
   "loginHistory": [
     {
       "id": "h_1785225358261_t9z1",
